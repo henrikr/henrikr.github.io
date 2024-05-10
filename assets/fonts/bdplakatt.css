@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'BD Plakatbau';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(./bdplakatt.woff2) format('woff2');
+}
